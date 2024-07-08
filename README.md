@@ -6,6 +6,6 @@ npm install
 ```
 
 To run:
-```
+```bash
 SANITY_PROJECT= SANITY_DATASET= SANITY_TOKEN= npm run start
 ```
